@@ -11,5 +11,6 @@
   "addons": [
     "cloudamqp:lemur",
     "mongolab"
-  ]
+  ],
+   "stack": "heroku-18"
 }
